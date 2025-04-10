@@ -1,3 +1,5 @@
 # Primer repositorio en GITHUB
 
-Este repositorio contiene informacion de 
+Alan Bautista Cruz - 240110049
+240110049@itsoeh.edu.mx
+
